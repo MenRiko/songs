@@ -1,1 +1,152 @@
-hhhhhhhhhhhhhhhhhhhh
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"01. kal ho naa ho",
+         "artist":"Shankar-Ehsaan-Loy",
+         "song_link":"https://pagalnew.com/download128/11482",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"02. Jolie musique Turque",
+         "artist":"sad songs",
+         "song_link":"https://www.instazik.com/music/mp3/Aghani%20Hazina/Aghani-Torkia-Hazina/01.%20Jolie%20musique%20Turque.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"03. Ömrüm irem Gural",
+         "artist":"sad songs",
+         "song_link":"https://www.instazik.com/music/mp3/Aghani%20Hazina/Aghani-Torkia-Hazina/06.Ömrüm%20irem%20Gural.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"04.Bu Benim Kaderim Veysel Mala",
+         "artist":"sad songs",
+         "song_link":"https://www.instazik.com/music/mp3/Aghani Hazina/Aghani-Torkia-Hazina/02.Bu Benim Kaderim Veysel Mala.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"05. nassini leh",
+         "artist":"Tamer Hosny",
+         "song_link":"https://archive.org/download/NasenyLehMusicVideoTamerHosny/%DA%A4%D9%8A%D8%AF%D9%8A%D9%88_%D9%83%D9%84%D9%8A%D8%A8_%D9%86%D8%A7%D8%B3%D9%8A%D9%86%D9%8A_%D9%84%D9%8A%D9%87_-_%D8%AA%D8%A7%D9%85%D8%B1_%D8%AD%D8%B3%D9%86%D9%8A___Naseny_Leh_-_Music_video_-_Tamer_Hosny.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"06. Zincirimi Kırdı Aşk",
+         "artist":"sad songs",
+         "song_link":"https://www.instazik.com/music/mp3/Aghani%20Hazina/Aghani-Torkia-Hazina/04.%20Zincirimi%20K%C4%B1rd%C4%B1%20A%C5%9Fk.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"07. Yok Elvedası",
+         "artist":"sad songs",
+         "song_link":"https://www.instazik.com/music/mp3/Aghani%20Hazina/Aghani-Torkia-Hazina/05.%20Yok%20Elvedas%C4%B1.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"08. Bengü Unut Beni",
+         "artist":"sad songs",
+         "song_link":"https://www.instazik.com/music/mp3/Aghani%20Hazina/Aghani-Torkia-Hazina/07.Beng%C3%BC%20-%20Unut%20Beni.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"09.Söz Verdim",
+         "artist":"sad songs",
+         "song_link":"https://www.instazik.com/music/mp3/Aghani%20Hazina/Aghani-Torkia-Hazina/08.S%C3%B6z%20Verdim.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"10.Bu Aşkta Zararım Var",
+         "artist":"sad songs",
+         "song_link":"https://www.instazik.com/music/mp3/Aghani%20Hazina/Aghani-Torkia-Hazina/09.Bu%20A%C5%9Fkta%20Zarar%C4%B1m%20Var.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"11.feat Tuğçe Kandemir İçimdeki Sen",
+         "artist":"sad songs",
+         "song_link":"https://www.instazik.com/music/mp3/Aghani%20Hazina/Aghani-Torkia-Hazina/11.feat%20Tu%C4%9F%C3%A7e%20Kandemir-%C4%B0%C3%A7imdeki%20Sen.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"12. Alev Alev",
+         "artist":"sad songs",
+         "song_link":"https://www.instazik.com/music/mp3/Aghani%20Hazina/Aghani-Torkia-Hazina/15.%20Alev%20Alev.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"13. Kül",
+         "artist":"sad songs",
+         "song_link":"https://www.instazik.com/music/mp3/Aghani%20Hazina/Aghani-Torkia-Hazina/16.K%C3%BCl.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track14",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/7/b/f/7bfb3604c18a8da15f4fb820f750a715.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track15",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://www.izlanzik.com/uploads/2021/Ahouzar_Abdelaziz/Isoul oumoutl.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track16",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/e/8/8/e88123fe5ac8b854e7fc82fc62aa4662.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track17",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/f/4/9/f4959a03954ac6ad51a8748488e0b5a4.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track18",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/9/7/5/9752986e71787be08b3894f814211e7d.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track19",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/9/e/5/9e56baa514456efa94fdb371e8ea0a16.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track20",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/1/6/f/16f4c97f284c11bdb0c430428e8d5af0.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track21",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/2/f/d/2fde2df99a8f3cb4ca5cfe5581714096.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track22",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/1/1/2/112f524e4b81ea2c86abe7ffa418b0fb.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Track23",
+         "artist":"Abdelali Ahouzar",
+         "song_link":"https://nadorzik.com/mp3/2/d/a/2da16ff25942b90823c8f4c8d63d3e49.mp3",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }
+   ]
+}
